@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/jdkealy/.vim'
+let g:netrw_dirhist_2='/Users/jdkealy/srv/st/ATT-Adworks-CMS/.git'
+let g:netrw_dirhist_3='/Users/jdkealy/srv/st/ATT-Adworks-CMS/medialab/media'
